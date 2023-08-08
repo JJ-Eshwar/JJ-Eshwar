@@ -1,4 +1,4 @@
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=blitzsenpai&theme=github">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JJ-Eshwar&theme=github">
 
 ## 📚 Education
 
