@@ -2,9 +2,10 @@
 
 <!--
 **JJ-Eshwar/JJ-Eshwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=blitzsenpai&theme=github">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJ-Eshwar&theme=github">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=blitzsenpai&theme=github">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=blitzsenpai&theme=github">
 Here are some ideas to get you started:
 
