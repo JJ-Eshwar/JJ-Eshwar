@@ -31,11 +31,11 @@ These certifications have facilitated the refinement of my Deployment skills in 
 
 <p align="center" >
  
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=blitzsenpai&show_icons=true&theme=dark#gh-dark-mode-only" />
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blitzsenpai&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only" />
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=blitzsenpai&theme=dark#gh-dark-mode-only" />
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=JJ-Eshwar&show_icons=true&theme=dark#gh-dark-mode-only" />
+    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJ-Eshwar&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JJ-Eshwar&theme=dark#gh-dark-mode-only" />
 </p>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=blitzsenpai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=JJ-Eshwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
