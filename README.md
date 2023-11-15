@@ -1,21 +1,20 @@
-# About me
-   Greetings! I'm Jaman Jyothi Eshwar and I'm currently a sophomore pursuing a Bachelor of technology in Computer science and engineering. I'm part of the 2021-25 batch. As an ambitious individual with a deep passion for technology, I'm highly motivated to excel in the field of computer science. My dedication to learning and exploring new technologies has helped me develop a strong foundation in programming, web development, and database management. I'm excited to continue building my skills and knowledge in this field, and I'm confident that my enthusiasm and drive will lead to future success.
+![MasterHead](https://animafoundation.in/wp-content/uploads/2021/03/mobile-app.gif)
+<h1 align="center">Hi 👋, I'm Jaman Jyothi Eshwar</h1>
+<h3 align="center">A passionate developer from Hyderabad</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5e/0c/09/5e0c09805d04718512864363ab3f0d78.gif")
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JJ-Eshwar&label=Profile%20views&color=0e75b6&style=flat" alt="JJ-Eshwar" /> </p>
+
+<p align="left"> <a href=" https://x.com/JJ_01_E?t=lew6qEyIxUHZg2jZLOq8RA&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/JJ Eshwar?logo=twitter&style=for-the-badge" alt="JJ Eshwar" /></a> </p>
+
+
+# About me
+- Greetings! I'm Jaman Jyothi Eshwar and I'm currently pursuing a Btech 3rd year in Computer science and engineering.
+- I’m currently learning Web development.
+- I’m also passionate to learn machine learning. 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJ-Eshwar&theme=github">
 
-## 📚 Education
-
-- Bachelor of technology in computer science and engineering
-- Relevant coursework: Cloud Engineering, Cloud Architecting, Data Structures, Software Engineering
-
-## 🏆 Academic Achievements
-No  achievements
-## 👨🏻‍💻 Development Career
-
-- I possess a strong command of industry-standard web application development, with a focus on scalability and robustness.
-- As an open-source enthusiast, I'm always eager to contribute to community projects and have gravitated toward the development side of things.
-- I take pride in crafting applications that can seamlessly integrate changes, thus enabling my peers to build on my work with ease.
 
 ## 🧰 Languages and Tools
 
